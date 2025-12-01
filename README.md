@@ -6,9 +6,9 @@ This repository serves as a personal learning log and version controlled archive
 
 I enrolled in the Data Analyst Course on AnalystBuilder.com, created by Alex The Analyst.
 
-Creator: Alex The Analyst
-YouTube Channel: [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)
-Platform: AnalystBuilder.com (paid course)
+Creator: Alex The Analyst  
+YouTube Channel: [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst)  
+Platform: AnalystBuilder.com (paid course)  
 
 Although Alex provides a large amount of free SQL and analytics content on YouTube, the material there is not fully structured or organized in a clear progression. Because of that, I chose to take the paid version of the course on AnalystBuilder.com. The content is well organized, includes exercises and provides a more systematic approach for learning SQL from the basics to more advanced concepts.
 
@@ -127,5 +127,6 @@ As I continue the course and expand into other areas such as Python, Tableau, Ex
 * Share dashboards, analyses and SQL case studies
 
 ## Acknowledgements
+
 
 Thank you to Alex The Analyst for creating accessible and practical educational material for aspiring data analysts. His structured course, combined with his free content on YouTube, made learning SQL straightforward and enjoyable.
